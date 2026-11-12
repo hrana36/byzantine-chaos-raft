@@ -1,0 +1,9 @@
+{
+  "cluster_size": 5,
+  "is_linearizable": true,
+  "split_brain_detected": false,
+  "divergent_entries": 0,
+  "election_latency_ms": 0.066,
+  "recovery_time_objective_ms": 0.025,
+  "violations": []
+}
